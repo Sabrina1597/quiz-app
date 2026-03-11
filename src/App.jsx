@@ -1,4 +1,4 @@
-import Quiz from "c:/Users/sabri/quiz-app/src/quiz";
+import Quiz from "./quiz";
 
 function App() {
   return <Quiz />;
